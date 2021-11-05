@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayaralm&show_icons=true&theme=dark&include_all_commits=true&count_private"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaralm&layout=compact&langs_count=8&theme=dark"/>
+                        
+  
+
+ 
+</div>
+
 <!--
 **mayaralm/mayaralm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
